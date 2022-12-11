@@ -1,7 +1,6 @@
 package com.car.center.domain.repository;
 
 import com.car.center.domain.dto.MechanicDTO;
-import org.springframework.data.jpa.repository.Query;
 
 import java.util.List;
 

@@ -1,6 +1,5 @@
 package com.car.center.persistence.crud;
 
-import com.car.center.domain.dto.MechanicDTO;
 import com.car.center.persistence.entity.MechanicEntity;
 import com.car.center.persistence.entity.MechanicPK;
 import org.springframework.data.jpa.repository.Query;
